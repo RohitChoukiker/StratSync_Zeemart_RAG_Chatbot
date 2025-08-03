@@ -1,0 +1,16 @@
+location,type,benchmark_cogs_percent,benchmark_daily_sales,benchmark_procurement_events_per_day,benchmark_zeemart_usage_percent
+Jurong,Cafe,28.72,2569.87,8.8,74.03
+Jurong,Fastfood,32.63,2240.69,7.61,70.69
+Jurong,Dine-In,28.15,1661.84,5.16,75.91
+Changi,Cafe,29.89,2262.86,9.54,66.23
+Changi,Fastfood,30.46,2633.33,6.14,61.92
+Changi,Dine-In,29.74,1741.83,9.65,80.2
+Tanjong Pagar,Cafe,31.8,2807.19,9.02,64.66
+Tanjong Pagar,Fastfood,33.36,2309.01,9.04,82.4
+Tanjong Pagar,Dine-In,29.91,1665.08,6.14,70.68
+Bugis,Cafe,32.91,2791.1,5.03,72.77
+Bugis,Fastfood,30.5,1833.16,5.6,68.44
+Bugis,Dine-In,33.66,1984.8,7.59,77.58
+Orchard,Cafe,30.18,2957.67,9.81,66.29
+Orchard,Fastfood,30.98,1951.32,6.42,60.92
+Orchard,Dine-In,31.66,2254.02,5.26,66.97

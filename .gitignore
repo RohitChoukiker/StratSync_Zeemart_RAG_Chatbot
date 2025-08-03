@@ -1,13 +1,15 @@
-.DS_Store
 
-server/venv/
 __pycache__/
-
-
-
-
-
-
-
-
+.venv/
+venv/
+app/data/uploaded_csvs/tmp_*/     
+.cache/
+*.log
+*.tmp
+.DS_Store
+.vscode/
 client/node_modules/
+.dockerignore
+*.env
+dist/
+build/

@@ -1,0 +1,31 @@
+restaurant_id,restaurant_code,name,type,location
+1,R001,Cafe Spot 1,Cafe,Jurong
+2,R002,Cafe Spot 2,Cafe,Changi
+3,R003,Cafe Spot 3,Cafe,Tanjong Pagar
+4,R004,Cafe Spot 4,Cafe,Changi
+5,R005,Cafe Spot 5,Cafe,Changi
+6,R006,Cafe Spot 6,Cafe,Bugis
+7,R007,Cafe Spot 7,Cafe,Tanjong Pagar
+8,R008,Cafe Spot 8,Cafe,Tanjong Pagar
+9,R009,Cafe Spot 9,Cafe,Tanjong Pagar
+10,R010,Cafe Spot 10,Cafe,Changi
+11,R011,Fastfood Spot 1,Fastfood,Jurong
+12,R012,Fastfood Spot 2,Fastfood,Tanjong Pagar
+13,R013,Fastfood Spot 3,Fastfood,Changi
+14,R014,Fastfood Spot 4,Fastfood,Bugis
+15,R015,Fastfood Spot 5,Fastfood,Jurong
+16,R016,Fastfood Spot 6,Fastfood,Bugis
+17,R017,Fastfood Spot 7,Fastfood,Jurong
+18,R018,Fastfood Spot 8,Fastfood,Changi
+19,R019,Fastfood Spot 9,Fastfood,Orchard
+20,R020,Fastfood Spot 10,Fastfood,Jurong
+21,R021,Dine-In Spot 1,Dine-In,Bugis
+22,R022,Dine-In Spot 2,Dine-In,Changi
+23,R023,Dine-In Spot 3,Dine-In,Jurong
+24,R024,Dine-In Spot 4,Dine-In,Orchard
+25,R025,Dine-In Spot 5,Dine-In,Orchard
+26,R026,Dine-In Spot 6,Dine-In,Tanjong Pagar
+27,R027,Dine-In Spot 7,Dine-In,Tanjong Pagar
+28,R028,Dine-In Spot 8,Dine-In,Bugis
+29,R029,Dine-In Spot 9,Dine-In,Jurong
+30,R030,Dine-In Spot 10,Dine-In,Jurong
